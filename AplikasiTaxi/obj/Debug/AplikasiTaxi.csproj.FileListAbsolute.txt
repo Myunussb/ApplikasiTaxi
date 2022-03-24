@@ -1,0 +1,9 @@
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\bin\Debug\AplikasiTaxi.exe.config
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\bin\Debug\AplikasiTaxi.exe
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\bin\Debug\AplikasiTaxi.pdb
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\obj\Debug\AplikasiTaxi.csprojResolveAssemblyReference.cache
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\obj\Debug\AplikasiTaxi.exe
+C:\Users\muhammad yunus\AppData\Local\Temporary Projects\AplikasiTaxi\obj\Debug\AplikasiTaxi.pdb
+D:\semester 2\pemrograman\Taxi\AplikasiTaxi\AplikasiTaxi\bin\Debug\AplikasiTaxi.exe.config
+D:\semester 2\pemrograman\Taxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.exe
+D:\semester 2\pemrograman\Taxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.pdb
